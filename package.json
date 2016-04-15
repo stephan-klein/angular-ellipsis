@@ -11,10 +11,10 @@
         "main": "index.js",
 	"description" : "Angular directive to truncate multi-line text",
 	"version": "0.1.6",
-	"homepage" : "https://github.com/dibari/angular-ellipsis",
+	"homepage" : "https://github.com/stephan-klein/angular-ellipsis",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/dibari/angular-ellipsis.git"
+		"url": "git://github.com/stephan-klein/angular-ellipsis.git"
 	},
 	"engines": {
 		"node": ">= 0.8.4"
