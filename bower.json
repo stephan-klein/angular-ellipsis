@@ -6,7 +6,7 @@
 		"Eric Di Bari"
 	],
 	"license": "Apache License, v2.0",
-	"homepage" : "https://github.com/dibari/angular-ellipsis",
+	"homepage" : "https://github.com/stephan-klein/angular-ellipsis",
 	"main": "./src/angular-ellipsis.js",
 	"keywords": [
 		"angular",
