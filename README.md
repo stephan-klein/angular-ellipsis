@@ -1,3 +1,8 @@
+FORK Description
+================
+
+This fork supports ellipsis for elements hidden or shown with angular using ng-show directive
+
 angular-ellipsis
 ================
 
